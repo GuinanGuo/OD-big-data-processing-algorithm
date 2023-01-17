@@ -1,0 +1,2 @@
+网格ID	网格x坐标	网格y坐标	行业:农林牧渔	Domain_1	Domain_2	Domain_3	Domain_4	city	district	town	town_code
+XXXX|XXXX	100	30	0.1	0.2	0.3	0.2	0.2	xx市	xx区	xx镇	11111111.0
